@@ -26,7 +26,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qreamville&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qreamville&theme=buefy&layout=compact" />
 </a>
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
