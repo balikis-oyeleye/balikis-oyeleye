@@ -26,15 +26,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Qreamville&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qreamville&theme=buefy&layout=compact" />
 </a>
-![ggg](https://raw.githubusercontent.com/Qreamville/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-![gggg](https://raw.githubusercontent.com/Qreamville/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/balikis-oyeleye-3624a6191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Balikis%20Oyeleye-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/balikisyeleye-3624a6191/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Balikis%20Oyeleye-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/qreamville/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-qreamville-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:oyeleyebalikis@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-oyeleyebalikis@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
