@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities.[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 - 🌱 &nbsp; Learning more about ReactJs, FrontEnd Development and Blockchain Development;.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
