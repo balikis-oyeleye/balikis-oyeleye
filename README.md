@@ -1,6 +1,7 @@
-# Hello World 👋 <a href=null><img src="https://komarev.com/ghpvc/?username=Qreamville&color=dc143c" align=right></a>
 
-## Frontend development
+<a href=null><img src="https://komarev.com/ghpvc/?username=Qreamville&color=dc143c" align=right></a>
+
+# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>
 
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
@@ -8,7 +9,7 @@
 - 👩‍🔧 👩‍💻 Civil Engineering Stundent and Software Developer
 - 🤯 I’m currently practicing DataStructures and Algorithms
 
-### Skills
+## **Skills :**
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -19,21 +20,34 @@
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-### Socials
+## **Socials :**
 
 <p align="left"> <a href="https://www.github.com/Qreamville" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Balqees_Oyeleye" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
+## **Badges :**
 
 ### Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 
 <a href="https://www.codewars.com/users/Qreamville"><img src="https://www.codewars.com/users/Qreamville/badges/large" alt="Codewars Badge"></href>
 
-<b>My GitHub Stats</b>
+## **GitHub Trophies :**
 
-<a href="http://www.github.com/Qreamville"><img src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Qreamville's GitHub stats" /></a>
+<p align="centre">
+<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Qreamville&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Qreamville"/></a>
+</p>
 
-<a href="http://www.github.com/Qreamville"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Qreamville&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## **My Github Stats :**
 
-<a href="https://github.com/Qreamville" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qreamville&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+<a href="https://github.com/Qreamville" title="Redirect's to Qreamville's Github">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+  
+<a href="https://github.com/Jiganesh">
+<img width="49%" title="Redirect's to Qreamville Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Qreamville&theme=dark&theme=black-ice&stroke=0000" /></a>
+
+<a href ="https://github.com/Qreamville" title="Redirect's to Qreamville Github">
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qreamville&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+
+
+</p>
