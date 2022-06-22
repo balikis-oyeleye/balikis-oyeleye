@@ -4,8 +4,8 @@
 
 - 🌍  I'm based in Nigeria
 - ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
-- 🧠  I'm learning ReactJs and Blockchain technology
-- 👩‍🔧 👩‍💻 Civil Engineering and Software Developer
+- 🧠  I'm learning ReactJs and Blockchain development
+- 👩‍🔧 👩‍💻 Civil Engineering Stundent and Software Developer
 - 🤯 I’m currently practicing DataStructures and Algorithms
 
 ### Skills
