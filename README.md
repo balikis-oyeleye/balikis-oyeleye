@@ -1,13 +1,12 @@
 # Hello World 👋
 
-Frontend development
---------------------
+## Frontend development
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
-* 🧠  I'm learning ReactJs and Blockchain technology
-* 👩‍🔧 👩‍💻 Civil Engineering and Software Developer
-* 🤯 I’m currently practicing DataStructures and Algorithms
+- 🌍  I'm based in Nigeria
+- ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
+- 🧠  I'm learning ReactJs and Blockchain technology
+- 👩‍🔧 👩‍💻 Civil Engineering and Software Developer
+- 🤯 I’m currently practicing DataStructures and Algorithms
 
 ### Skills
 
@@ -20,10 +19,10 @@ Frontend development
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 </p>
 
-
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Qreamville" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Balqees_Oyeleye" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Qreamville" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Balqees_Oyeleye" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> ![codewars](./icons/codewars.png)
+</p>
 
 ### Badges
 
