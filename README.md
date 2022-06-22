@@ -26,6 +26,10 @@
 
 ### Badges
 
+### Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
+
+<a href="https://www.codewars.com/users/Qreamville"><img src="https://www.codewars.com/users/Qreamville/badges/large" alt="Codewars Badge"></href>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Qreamville"><img src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="Qreamville's GitHub stats" /></a>
