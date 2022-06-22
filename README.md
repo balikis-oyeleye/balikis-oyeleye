@@ -1,6 +1,4 @@
-<link href="style.css" rel="stylesheet"></link>
-Hi 👋 My name is Balikis Moromoke Oyeleye
-=========================================
+# Hello World 👋
 
 Frontend development
 --------------------
@@ -8,6 +6,8 @@ Frontend development
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
 * 🧠  I'm learning ReactJs and Blockchain technology
+* 👩‍🔧 👩‍💻 Civil Engineering and Software Developer
+* 🤯 I’m currently practicing DataStructures and Algorithms
 
 ### Skills
 
