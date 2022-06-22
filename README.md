@@ -27,7 +27,7 @@
 
 ## **Badges :**
 
-### Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
+#### Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 
 <a href="https://www.codewars.com/users/Qreamville"><img src="https://www.codewars.com/users/Qreamville/badges/large" alt="Codewars Badge"></href>
 
@@ -41,13 +41,13 @@
 
 <p align="center">
 <a href="https://github.com/Qreamville" title="Redirect's to Qreamville's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 <a href="https://github.com/Jiganesh">
-<img width="49%" title="Redirect's to Qreamville Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Qreamville&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width="100%" title="Redirect's to Qreamville Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Qreamville&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 <a href ="https://github.com/Qreamville" title="Redirect's to Qreamville Github">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qreamville&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qreamville&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 
 </p>
