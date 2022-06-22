@@ -2,7 +2,7 @@
 
 ## Frontend development
 
-- 🌍  I'm based in Nigeria
+- 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
 - 🧠  I'm learning ReactJs and Blockchain development
 - 👩‍🔧 👩‍💻 Civil Engineering Stundent and Software Developer
