@@ -1,7 +1,7 @@
 
 <a href=null><img src="https://komarev.com/ghpvc/?username=Qreamville&color=dc143c" align=right></a>
 
-# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Balikis
+# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Balikis, a Frontend developer
 
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
