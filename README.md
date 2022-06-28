@@ -31,6 +31,7 @@ Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 
 <a href="https://www.codewars.com/users/Qreamville"><img src="https://www.codewars.com/users/Qreamville/badges/large" alt="Codewars Badge"></href>
 
+<a href="https://wakatime.com/badge/github/Qreamville/Qreamville"><img src="https://wakatime.com/badge/github/Qreamville/Qreamville.svg" alt="wakatime"></a>
 ## **GitHub Trophies :**
 
 <p align="centre">
