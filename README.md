@@ -31,7 +31,6 @@ Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 
 <a href="https://www.codewars.com/users/Qreamville"><img src="https://www.codewars.com/users/Qreamville/badges/large" alt="Codewars Badge"></href>
 
-<a href="https://wakatime.com/badge/github/Qreamville/Qreamville"><img src="https://wakatime.com/badge/github/Qreamville/Qreamville.svg" alt="wakatime"></a>
 ## **GitHub Trophies :**
 
 <p align="centre">
@@ -44,7 +43,7 @@ Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 <a href="https://github.com/Qreamville" title="Redirect's to Qreamville's Github">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
-<a href="https://github.com/Jiganesh">
+<a href="https://github.com/Qreamville">
 <img width="49%" title="Redirect's to Qreamville Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Qreamville&theme=dark&theme=black-ice&stroke=0000" /></a>
 
 <a href ="https://github.com/Qreamville" title="Redirect's to Qreamville Github">
