@@ -34,7 +34,7 @@ Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 ## **GitHub Trophies :**
 
 <p align="centre">
-<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Qreamville&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Qreamville"/></a>
+<a href="https://github.com/Qreamville"><img src="https://github-profile-trophy.vercel.app/?username=Qreamville&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Qreamville"/></a>
 </p>
 
 ## **My Github Stats :**
