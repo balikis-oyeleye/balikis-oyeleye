@@ -5,6 +5,7 @@
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [Oyeleyebalikis@yahoo.com](mailto:Oyeleyebalikis@yahoo.com)
 - 🧠  I'm learning ReactJs and Blockchain development
+- 🧐 I’m currently learning Blockchain Development at [Web3Bridge](https://www.web3bridge.com/)
 - 👩‍🔧 👩‍💻 Civil Engineering Student and Software Developer
 - 🤯 I’m currently studying DataStructures and Algorithms
 
