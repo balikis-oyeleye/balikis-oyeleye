@@ -26,6 +26,9 @@
 <p align="left">
  <a href="https://www.linkedin.com/in/balikis-oyeleye-3624a6191" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
  <a href="https://www.twitter.com/Balqees_Oyeleye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://leetcode.com/Jiganesh/">
+  <img src="https://img.shields.io/badge/Leetcode-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 </p>
 
 ## **Badges :**
