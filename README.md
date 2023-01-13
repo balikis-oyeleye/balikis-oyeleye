@@ -45,11 +45,5 @@ Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 ## **My Github Stats :**
 
 <p align="center">
-<a href="https://github.com/Qreamville" title="Redirect's to Qreamville's Github">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
-  
-<a href="https://github.com/Qreamville">
-<img width="49%" title="Redirect's to Qreamville Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Qreamville&theme=dark&theme=black-ice&stroke=0000" /></a>
-
-<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qreamville&layout=compact&langs_count=8&theme=dark"/>
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qreamville&layout=compact&langs_count=10&theme=dark"/>
 </p>
