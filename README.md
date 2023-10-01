@@ -41,7 +41,5 @@ Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
 
 ## **My Github Stats :**
 <p align="center">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Qreamville&show_icons=true&theme=dark" />
-
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qreamville&layout=compact&langs_count=10&theme=dark"/>
 </p>
