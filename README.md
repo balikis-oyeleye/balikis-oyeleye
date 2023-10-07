@@ -1,6 +1,7 @@
-<a href=null><img src="https://komarev.com/ghpvc/?username=Qreamville&color=dc143c" align=right></a>
+<a href=null><img src="https://komarev.com/ghpvc/?username=balikis-oyeleye&color=dc143c" align=right></a>
 
-# Hello World <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a> I'm Balikis, a Frontend developer
+<h1 align="center">Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Balikis Oyeleye</h1>
+<h3 align="center">Frontend Developer</h3>
 
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [oyeleyebalikis@yahoo.com](mailto:oyeleyebalikis@yahoo.com)
@@ -23,20 +24,8 @@
 
 ## **Socials :**
 <p align="left">
- <a href="https://www.linkedin.com/in/balikis-oyeleye-3624a6191" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
- <a href="https://www.twitter.com/Balqees_Oyeleye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
-
-## **Badges :**
-
-Codewars <img src="icons/codewars.png" width="17px" alt="Codewars Logo">
-
-<a href="https://www.codewars.com/users/Qreamville"><img src="https://www.codewars.com/users/Qreamville/badges/large" alt="Codewars Badge"></href>
-
-## **GitHub Trophies :**
-
-<p align="centre">
-<a href="https://github.com/Qreamville"><img src="https://github-profile-trophy.vercel.app/?username=Qreamville&rank=S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Qreamville"/></a>
+ <a href="https://www.linkedin.com/in/balikis-oyeleye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+ <a href="https://twitter.com/balikis_oyeleye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 </p>
 
 ## **My Github Stats :**
