@@ -30,5 +30,5 @@
 
 ## **My Github Stats :**
 <p align="center">
-<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Qreamville&layout=compact&langs_count=10&theme=dark"/>
+<img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balikis-oyeleye&layout=compact&langs_count=10&theme=dark"/>
 </p>
