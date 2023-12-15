@@ -31,4 +31,7 @@
 ## **My Github Stats :**
 <p align="center">
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balikis-oyeleye&layout=compact&langs_count=10&theme=dark"/>
+
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=balikis-oyeleye&show_icons=true&line_height=22&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=151515" alt="balikis github stats" />
+
 </p>
