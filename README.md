@@ -1,3 +1,4 @@
+<img src="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png" />
 <a href=null><img src="https://komarev.com/ghpvc/?username=balikis-oyeleye&color=dc143c" align=right></a>
 
 <h1 align="center">Hi <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, I'm Balikis Oyeleye</h1>
