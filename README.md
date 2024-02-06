@@ -23,12 +23,6 @@
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
 </p>
 
-## **Socials :**
-<p align="left">
- <a href="https://www.linkedin.com/in/balikis-oyeleye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
- <a href="https://twitter.com/balikis_oyeleye" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-</p>
-
 ## **My Github Stats :**
 <p align="center">
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balikis-oyeleye&layout=compact&langs_count=10&theme=dark"/>
