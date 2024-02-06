@@ -5,7 +5,6 @@
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [oyeleyebalikis@yahoo.com](mailto:oyeleyebalikis@yahoo.com)
 - 🧠  I'm learning ReactJs, Next js and React Native
-- 👩‍🔧 👩‍💻 Civil Engineering Student and Software Developer
 - 🤯 I’m currently studying DataStructures and Algorithms
 
 ## **Skills :**
