@@ -6,7 +6,7 @@
 
 
 - 🌍  I'm based in Lagos, Nigeria
-- ✉️  You can contact me at [oyeleyebalikis@yahoo.com](mailto:oyeleyebalikis@yahoo.com)
+- ✉️  You can contact me at [oyeleyebal@gmail.com](mailto:oyeleyebal@gmail.com)
 - 🧠  I'm learning ReactJs, Next js and React Native
 - 🤯 I’m currently studying DataStructures and Algorithms
 
