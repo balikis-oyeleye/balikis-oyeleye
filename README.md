@@ -12,6 +12,6 @@
 
 
 ## **My Github Stats :**
-<p align="center">
+<p align="left">
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balikis-oyeleye&layout=compact&langs_count=10&theme=dark"/>
 </p>
