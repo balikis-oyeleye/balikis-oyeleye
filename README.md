@@ -7,7 +7,7 @@
 
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [oyeleyebal@gmail.com](mailto:oyeleyebal@gmail.com)
-- 
+
 ## **My Github Stats :**
 <p align="left">
 <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=balikis-oyeleye&layout=compact&langs_count=10&theme=dark"/>
