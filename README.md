@@ -7,6 +7,7 @@
 
 - 🌍  I'm based in Lagos, Nigeria
 - ✉️  You can contact me at [oyeleyebal@gmail.com](mailto:oyeleyebal@gmail.com)
+- 👩‍💻 Check out my current projects here, with plenty more on the way :)
 
 ## **My Github Stats :**
 <p align="left">
