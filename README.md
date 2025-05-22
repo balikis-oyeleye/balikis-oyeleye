@@ -1,4 +1,4 @@
-<img src="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png" />
+<img src="ing.png" />
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=x&logoColor=white&color=1DA1F2)](https://twitter.com/balikis_oyeleye)
 [![Instagrm Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=F56040)](https://www.instagram.com/balikis.dev/)
