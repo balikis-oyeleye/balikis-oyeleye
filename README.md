@@ -6,9 +6,14 @@
 <a href=null><img src="https://komarev.com/ghpvc/?username=balikis-oyeleye&color=dc143c" align=right></a>
 
 <h3 align="center">
-I'm Balikis, a frontend engineer dedicated to building clean, accessible and user-friendly web applications. I specialize in the core technologies that drive modern web development.
+I'm Balikis, a Software engineer dedicated to building clean, accessible and user-friendly web applications. I specialize in the core technologies that drive modern web development.
 </h3>
 
 - 🌍  I'm based in Lagos, Nigeria
-- ✉️  You can contact me at [oyeleyebal@gmail.com](mailto:oyeleyebal@gmail.com)
-- 👩‍💻 Check out my current projects here, with plenty more on the way :)
+- ✉️  You can contact me at [oyeleyebal@gmail.com](mailto:oyeleyebal@gmail.com)
+- 👩‍💻  Check out my current projects here, with plenty more on the way :)
+- 🏗️  Technologies:
+  - 🧩 Languages: Javascript/Typescript
+  - 🔐 Backend: Node.Js
+  - 🎨 Frontend: React, Next.js
+  - 🛢️ Databases: MongoDB
