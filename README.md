@@ -1,4 +1,4 @@
-<img src="ing.png" />
+<img src="banner.png" />
 
 <!--  [![Instagrm Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=F56040)](https://www.instagram.com/balikis.dev/) -->
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/balikis/)
